@@ -15,4 +15,3 @@ console.log(name); //非推奨
 "use strict"; //ファイルor関数の先頭に置くと、そのスコープはstrict modeで実行される
 mistypedVariable = 42;
 console.log(mistypedVariable); // => Uncaught ReferenceError: mistypedVariable is not defined
-
