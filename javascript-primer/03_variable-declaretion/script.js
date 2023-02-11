@@ -1,4 +1,3 @@
-
 //const：再代入できない変数
 const bookTitle = "JavaScript Primer";
 const bookCategory = "programming";
